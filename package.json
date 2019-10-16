@@ -1,0 +1,28 @@
+{
+  "name": "first-koa2",
+  "version": "1.0.0",
+  "description": "KOA2从入门到滚蛋",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antipro7/first-koa2.git"
+  },
+  "author": "fangjianhui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antipro7/first-koa2/issues"
+  },
+  "homepage": "https://github.com/antipro7/first-koa2#readme",
+  "dependencies": {
+    "koa": "^2.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}
