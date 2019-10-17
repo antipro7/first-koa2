@@ -22,4 +22,4 @@ app.use(async (ctx) => {
 })
 
 app.listen(3000)
-console.log('[demo] start-quick is starting at port 3000')
+console.log('[demo] get is starting at port 3000')
