@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/antipro7/first-koa2#readme",
   "dependencies": {
+    "busboy": "^0.3.1",
+    "ejs": "^2.7.1",
     "koa": "^2.10.0",
     "koa-bodyparser": "^3.2.0",
-    "koa-router": "^7.4.0"
+    "koa-mysql-session": "0.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session-minimal": "^3.0.4",
+    "koa-views": "^6.2.1"
   },
   "devDependencies": {
     "eslint": "^6.5.1",
