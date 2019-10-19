@@ -1,6 +1,6 @@
 // get_sql_content_map.js 获取sql脚本文件内容
 const fs = require('fs')
-const getSqlMap = require('./get-sql-map')
+const getSqlMap = require('./get_sql_map')
 
 let sqlContentMap = {}
 
